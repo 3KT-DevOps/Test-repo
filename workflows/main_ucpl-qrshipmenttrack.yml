@@ -1,4 +1,4 @@
-name: Build and deploy ASP.Net Core app to Azure Web App - UCPL-QRShipmentTrack-application
+name: Build and deploy ASP.Net Core app to Azure Web App - UCPL-QRShipmentTrack-application with new change
 
 on:
   workflow_dispatch:    # Manual trigger only
